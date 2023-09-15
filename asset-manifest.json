@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BeSocial/static/css/main.acadb4d1.css",
+    "main.js": "/BeSocial/static/js/main.b6ee84e4.js",
+    "index.html": "/BeSocial/index.html",
+    "main.acadb4d1.css.map": "/BeSocial/static/css/main.acadb4d1.css.map",
+    "main.b6ee84e4.js.map": "/BeSocial/static/js/main.b6ee84e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acadb4d1.css",
+    "static/js/main.b6ee84e4.js"
+  ]
+}
